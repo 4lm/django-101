@@ -17,7 +17,7 @@ The following graph shows a simplified model of the inner workings of Django wit
 
 ## Model-View-What?
 
-Django's Model-View-Template (MVT) design pattern is differently named from the rest of world's Model-View-Controller (MVC) design pattern.
+Django's Model-View-Template (MVT) design pattern is differently named from the rest of the world's Model-View-Controller (MVC) design pattern.
 
 Simplified:
 
