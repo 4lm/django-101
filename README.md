@@ -15,22 +15,12 @@ The following graph shows a simplified model of the inner workings of Django wit
 
 ![How Django works](images/how_django_works.svg "How Django works")
 
-## Model-View-What?
-
-Django's Model-View-Template (MVT) design pattern is differently named from the rest of the world's Model-View-Controller (MVC) design pattern.
-
-Simplified:
-
-![Model-View-What?](images/model_view_what.svg "Model-View-What?")
-
 ## Why Django?
 
 - Batteries included (e.g. admin backend)
 - Fast development time
 - Many third-party [packages](https://djangopackages.org/)
 - Django's Object Relational Mapping (ORM) is easy
-- [GeoDjango](https://docs.djangoproject.com/en/2.1/ref/contrib/gis/) for building GIS apps
-- [WAM](https://github.com/rl-institut/WAM)
 
 ## Say Hello!
 
